@@ -1,12 +1,12 @@
-# revision 33193
+# revision 34236
 # category Package
 # catalog-ctan /fonts/playfair
-# catalog-date 2014-03-16 11:38:42 +0100
+# catalog-date 2014-05-23 17:11:55 +0200
 # catalog-license ofl
 # catalog-version undef
 Name:		texlive-playfair
-Version:	20140316
-Release:	2
+Version:	20140523
+Release:	1
 Summary:	Playfair Display fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/playfair
