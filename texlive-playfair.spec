@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-playfair
 Version:	20140523
-Release:	2
+Release:	3
 Summary:	Playfair Display fonts with LaTeX support
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/fonts/playfair
