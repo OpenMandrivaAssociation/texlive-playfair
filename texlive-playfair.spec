@@ -5,7 +5,7 @@
 # catalog-license ofl
 # catalog-version undef
 Name:		texlive-playfair
-Version:	20170414
+Version:	20180303
 Release:	1
 Summary:	Playfair Display fonts with LaTeX support
 Group:		Publishing
