@@ -3,7 +3,7 @@ Version:	64857
 Release:	2
 Summary:	Playfair Display fonts with LaTeX support
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/fonts/playfair
+URL:		https://www.ctan.org/tex-archive/fonts/playfair
 License:	OFL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/playfair.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/playfair.doc.r%{version}.tar.xz
